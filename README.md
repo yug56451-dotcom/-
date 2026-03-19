@@ -1,2 +1,1 @@
-# -
-智能大棚检测系统，tcp
+# SmartGreenhouse-X1808
